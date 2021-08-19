@@ -1,7 +1,7 @@
 hola esta es la historia de:
 
-dany
-peggy
-gaby
+dany 35
+peggy 29
+gabriela 3
 
 bla bla
